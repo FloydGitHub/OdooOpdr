@@ -25,7 +25,7 @@ Volg de onderstaande stappen om de module aan Odoo toe te voegen:
 
 Na de installatie moeten de instellingen voor de CSV-import worden ingevuld.
 Ga hiervoor naar de algemene instellingen van Odoo en zoek naar de instellingen van System B.
-Hier kunnen de volgende waarden worden ingesteld:
+Hier kunnen de volgende dingen worden ingevoerd:
 
 - CSV Folder Path: het volledige pad naar de map waarin de CSV-bestanden van een delivery staan. Deze map moet zowel devices.csv als content.csv bevatten.
 - CSV Delimiter: het scheidingsteken dat in de CSV-bestanden wordt gebruikt. Standaard is dit een komma (,).
