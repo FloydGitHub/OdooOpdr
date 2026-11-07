@@ -1,0 +1,3 @@
+id,name,model_id,group_id/id,operation,domain
+access_system_b_device,system_b.device,system_b.device,base.group_user,r,
+access_system_b_content,system_b.content,system_b.content,base.group_user,r,
