@@ -1,0 +1,48 @@
+1001,"Video wall Amsterdam 1","4x 55-inch video wall, entrance",NL-AMS-1001, 2028-01-01 23:59:59.000+01:00, enabled
+1002,"Window display Amsterdam 2","75-inch high-brightness window display, checkout",NL-AMS-1002, 2028-01-15 23:59:59.000+01:00, enabled
+1003,"Window display Rotterdam 1","75-inch high-brightness window display, window",NL-ROT-1003, 2029-02-01 23:59:59.000+01:00, enabled
+1004,"Kiosk Rotterdam 2","32-inch touch kiosk, fitting rooms",NL-ROT-1004, 2029-02-15 23:59:59.000+01:00, enabled
+1005,"Kiosk Utrecht 1","32-inch touch kiosk, coffee corner",NL-UTR-1005, 2030-03-01 23:59:59.000+01:00, enabled
+1006,"Shelf screen Utrecht 2","Stretched shelf-edge LCD, entrance",NL-UTR-1006, 2030-03-15 23:59:59.000+01:00, enabled
+1007,"Shelf screen Eindhoven 1","Stretched shelf-edge LCD, checkout",NL-EIN-1007, 2028-04-01 23:59:59.000+01:00, enabled
+1008,"Video wall Eindhoven 2","4x 55-inch video wall, window",NL-EIN-1008, 2028-04-15 23:59:59.000+01:00, enabled
+1009,"Video wall Groningen 1","4x 55-inch video wall, fitting rooms",NL-GRO-1009, 2029-05-01 23:59:59.000+01:00, enabled
+1010,"Window display Groningen 2","75-inch high-brightness window display, coffee corner",NL-GRO-1010, 2029-05-15 23:59:59.000+01:00, enabled
+1011,"Window display Maastricht 1","75-inch high-brightness window display, entrance",NL-MAA-1011, 2030-06-01 23:59:59.000+01:00, enabled
+1012,"Kiosk Maastricht 2","32-inch touch kiosk, checkout",NL-MAA-1012, 2030-06-15 23:59:59.000+01:00, enabled
+1013,"Kiosk Den Haag 1","32-inch touch kiosk, window",NL-DEN-1013, 2028-07-01 23:59:59.000+01:00, enabled
+1014,"Shelf screen Den Haag 2","Stretched shelf-edge LCD, fitting rooms",NL-DEN-1014, 2028-07-15 23:59:59.000+01:00, enabled
+1015,"Shelf screen Breda 1","Stretched shelf-edge LCD, coffee corner",NL-BRE-1015, 2029-08-01 23:59:59.000+01:00, enabled
+1016,"Video wall Breda 2","4x 55-inch video wall, entrance",NL-BRE-1016, 2029-08-15 23:59:59.000+01:00, enabled
+1017,"Video wall Nijmegen 1","4x 55-inch video wall, checkout",NL-NIJ-1017, 2030-09-01 23:59:59.000+01:00, enabled
+1018,"Window display Nijmegen 2","75-inch high-brightness window display, window",NL-NIJ-1018, 2030-09-15 23:59:59.000+01:00, enabled
+1019,"Window display Zwolle 1","75-inch high-brightness window display, fitting rooms",NL-ZWO-1019, 2028-10-01 23:59:59.000+01:00, enabled
+1020,"Kiosk Zwolle 2","32-inch touch kiosk, coffee corner",NL-ZWO-1020, 2028-10-15 23:59:59.000+01:00, enabled
+1021,"Kiosk Arnhem 1","32-inch touch kiosk, entrance",NL-ARN-1021, 2029-11-01 23:59:59.000+01:00, enabled
+1022,"Shelf screen Arnhem 2","Stretched shelf-edge LCD, checkout",NL-ARN-1022, 2029-11-15 23:59:59.000+01:00, enabled
+1023,"Shelf screen Leiden 1","Stretched shelf-edge LCD, window",NL-LEI-1023, 2030-12-01 23:59:59.000+01:00, enabled
+1024,"Video wall Leiden 2","4x 55-inch video wall, fitting rooms",NL-LEI-1024, 2030-12-15 23:59:59.000+01:00, enabled
+1025,"Video wall Haarlem 1","4x 55-inch video wall, coffee corner",NL-HAA-1025, 2028-01-01 23:59:59.000+01:00, enabled
+1026,"Window display Haarlem 2","75-inch high-brightness window display, entrance",NL-HAA-1026, 2028-01-15 23:59:59.000+01:00, enabled
+1027,"Window display Tilburg 1","75-inch high-brightness window display, checkout",NL-TIL-1027, 2029-02-01 23:59:59.000+01:00, enabled
+1028,"Kiosk Tilburg 2","32-inch touch kiosk, window",NL-TIL-1028, 2029-02-15 23:59:59.000+01:00, enabled
+1029,"Kiosk Enschede 1","32-inch touch kiosk, fitting rooms",NL-ENS-1029, 2030-03-01 23:59:59.000+01:00, enabled
+1030,"Shelf screen Enschede 2","Stretched shelf-edge LCD, coffee corner",NL-ENS-1030, 2030-03-15 23:59:59.000+01:00, enabled
+1031,"Shelf screen Delft 1","Stretched shelf-edge LCD, entrance",NL-DEL-1031, 2028-04-01 23:59:59.000+01:00, enabled
+1032,"Video wall Delft 2","4x 55-inch video wall, checkout",NL-DEL-1032, 2028-04-15 23:59:59.000+01:00, enabled
+1101,"Kiosk Amersfoort 1","32"" touch kiosk, entrance",NL-AME-1101, 2027-06-01 08:00:00.000+02:00, 2029-06-01 08:00:00.000+02:00, enabled
+1102,"Kiosk Amersfoort 2","32"" touch kiosk, checkout",NL-AME-1102, 2029-06-01 08:00:00.000+02:00
+A1103,"Video wall Alkmaar 1","4x 55"" video wall",NL-ALK-1103, 2029-03-01 08:00:00.000+01:00, enabled
+1104,"Window display Leeuwarden Zaailand shopping centre","75"" window display",NL-LEE-1104, 2029-03-01 08:00:00.000+01:00, enabled
+1105,"Shelf screen Hilversum 1","Shelf-edge LCD",NL-AMS-1001, 2029-03-01 08:00:00.000+01:00, enabled
+1106,"Kiosk Venlo 1","32"" touch kiosk",NL-VEN-1106, 2029-03-01 08:00:00.000+01:00, active
+1107,"Kiosk Venlo 2","32"" touch kiosk",NL-VEN-1107, 2029-02-30 08:00:00.000+01:00, enabled
+1108,"Video wall Almere 1","4x 55"" video wall",NL-ALM-1108, 2029-05-01 23:59:60.000+02:00, enabled
+1109,"Window display Ede 1,"75"" window display",NL-EDE-1109, 2029-05-01 08:00:00.000+02:00, enabled
+1110,"Kiosk Deventer 1","32"" touch kiosk",, 2029-05-01 08:00:00.000+02:00, enabled
+1111,"Kiosk Helmond 1","Kiosk, entrance; ticket printer attached",NL-HEL-1111, 2025-03-01 08:00:00.000+01:00, enabled
+1112,"Kiosk Helmond 2","Removed from store",NL-HEL-1112, 2024-12-31 18:00:00.000+01:00, deleted
+1113,"Shelf screen Oss 1","Shelf-edge LCD",NL-OSS-1113, 2029-07-01 08:00:00, enabled
+1114,"Shelf screen Oss 2","Shelf-edge LCD",NL-OSS-1114,, enabled
+1001,"Video wall Amsterdam 1","4x 55"" video wall, entrance (moved)",NL-AMS-1001, 2028-01-01 23:59:59.000+01:00, enabled
+  1115 , Kiosk Gouda 1 , 32-inch touch kiosk , NL-GOU-1115 , 2029-08-01 08:00:00.000+02:00 , enabled 
